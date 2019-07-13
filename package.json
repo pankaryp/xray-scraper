@@ -1,0 +1,14 @@
+{
+  "name": "xray-scraper",
+  "version": "1.0.0",
+  "description": "A simple web scraper with X-ray module",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pankaryp",
+  "license": "MIT",
+  "dependencies": {
+    "x-ray": "^2.3.3"
+  }
+}
